@@ -1,19 +1,19 @@
 # 🇩🇪 german-learning
 
-This repository documents my deep commitment to learning German from scratch—an experience that challenged me both mentally and emotionally, and taught me what it means to stay persistent over time.
+This repository documents my journey of learning German from scratch. It reflects how I approached the language with focus, curiosity, and persistence—through both structured study and self-driven exploration.
 
-Learning German was one of the most intense and personal journeys I’ve ever taken. What started as a spark of curiosity became a long-term commitment. I studied every day, often for more than 12 hours, with almost no formal instruction. Instead, I relied on handwritten notes, repetition, self-discipline, and creativity.
-
-My A1–B1 notes are in Taiwan, so I’m not able to include them here.
+> 📌 My A1–B1 notes are currently in Taiwan, so they’re not included here.
 
 ## 📝 What You’ll Find Here
 
-This repo is a collection of scanned pages from my notebooks. Each page shows how I tried to internalize the language—through:
-- Structured notes on grammar, vocabulary, and themes like Klimawandel and Umweltprobleme
-- Reading exercises with highlighted text and handwritten annotations
-- Word-by-word translations and analysis
-- Logic course notes
+This is a collection of scanned pages from my handwritten notebooks. Each page shows a part of how I tried to understand and internalize the language, including:
 
+- Grammar and vocabulary notes on themes like Klimawandel and Umweltprobleme
+- Reading exercises with annotations and highlights
+- Word-by-word breakdowns and translations
+- Notes from a logic-focused course written in German
+
+## 📷 Sample Pages
 
 ![IMG_8055](https://github.com/user-attachments/assets/9607bddf-18da-4d70-87db-1a869694b68d)
 
